@@ -1,7 +1,7 @@
 Coding Software
 =========
 ##Atom
-- https://atom.io/
+- Atom Text Editor: https://atom.io/
 
 ##Github
 - Github for Windows: https://windows.github.com/

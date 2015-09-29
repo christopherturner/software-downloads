@@ -10,8 +10,7 @@ Coding Software
 
 
 ##Github
-- Github for Windows: https://windows.github.com/
-- Github for Mac: https://mac.github.com/
+- Github: https://desktop.github.com/
 
 
 ##Unity

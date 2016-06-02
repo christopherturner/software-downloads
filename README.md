@@ -40,20 +40,38 @@
 
 - Google's Nik Collection: <https://www.google.com/nikcollection/>
 
+## Reference
+
+- Dash (Purchased): <https://itunes.apple.com/us/app/dash/id449589707?ls=1&mt=12>
+
+## Screen Sharing
+
+- Screenhero: <https://screenhero.com/account/>
+
 ## System Security
 
 - Malwarebytes: <https://www.malwarebytes.org/antimalware/mac/>
 - Objective-See: <https://objective-see.com/products/>
-- ZenMate VPN: <https://zenmate.com/products/vpn-for-osx/>
+- ZenMate VPN (Purchased): <https://zenmate.com/products/vpn-for-osx/>
 
 ## Text Editing
 
-- Atom Text Editor: <https://atom.io/>
+- Atom: <https://atom.io/>
 - Brackets: <http://brackets.io/?lang=en>
 
 ## Torrenting
 
 - Transmission: <https://www.transmissionbt.com/>
+
+## Utilities
+
+- Alfred (Purchased): <https://www.alfredapp.com/>
+- BetterTouchTool (Purchased): <https://www.boastr.net/downloads/>
+- Boom 2 (Purchased): <http://www.globaldelight.com/boom/index.php>
+- CleanMyMac 3 (Purchased): <http://macpaw.com/download/cleanmymac>
+- Cryptomator: <https://cryptomator.org/downloads/#osxDownload>
+- Flux: <https://justgetflux.com/>
+- Hider 2 (Purchased): <http://macpaw.com/download/hider>
 
 ## Version Management
 

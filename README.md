@@ -3,8 +3,14 @@ Recommended Software
 ##AirPlay
 - Airflow: http://airflowapp.com/
 
+##Browser
+- Google Chrome: https://www.google.com/chrome/browser/desktop/
+- Mozilla Firefox: https://www.mozilla.org/en-US/firefox/new/
+- Opera (Developer): http://www.opera.com/developer
+- Vivaldi: https://vivaldi.com/download/?lang=en_US
+
 ##Computer Algebra System
-- Wolfram Mathematica: https://user.wolfram.com/
+- Wolfram Mathematica (Purchased): https://user.wolfram.com/
 
 ##Design & Production
 - Autodesk (Educational license): http://www.autodesk.com/education/free-software/all
@@ -25,6 +31,7 @@ Recommended Software
 - Google's Nik Collection: https://www.google.com/nikcollection/
 
 ##System Security
+- Malwarebytes: https://www.malwarebytes.org/antimalware/mac/
 - Objective-See: https://objective-see.com/products/
 
 ##Text Editing

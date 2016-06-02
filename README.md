@@ -1,4 +1,4 @@
-Recommended Software
+Recommended Software (for OS X)
 =========
 ##AirPlay
 - Airflow: http://airflowapp.com/
@@ -20,11 +20,13 @@ Recommended Software
 - FileZilla Client: https://filezilla-project.org/download.php?type=client
 
 ##Gaming
-- Curse: https://www.curse.com/download
 - Steam: http://store.steampowered.com/about/
 
 ##Messaging
+- Curse: https://www.curse.com/download
+- Discord: https://discordapp.com/download
 - Franz: http://meetfranz.com/#download
+- Skype: https://www.skype.com/en/download-skype/skype-for-computer/
 - Telegram: https://telegram.org/
 
 ##Photo Editing
@@ -33,9 +35,11 @@ Recommended Software
 ##System Security
 - Malwarebytes: https://www.malwarebytes.org/antimalware/mac/
 - Objective-See: https://objective-see.com/products/
+- ZenMate VPN: https://zenmate.com/products/vpn-for-osx/
 
 ##Text Editing
 - Atom Text Editor: https://atom.io/
+- Brackets: http://brackets.io/?lang=en
 
 ##Torrenting
 - Transmission: https://www.transmissionbt.com/

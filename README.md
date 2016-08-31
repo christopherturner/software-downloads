@@ -67,7 +67,6 @@
 
 - Alfred (Purchased): <https://www.alfredapp.com/>
 - BetterTouchTool (Purchased): <https://www.boastr.net/downloads/>
-- Boom 2 (Purchased): <http://www.globaldelight.com/boom/index.php>
 - CleanMyMac 3 (Purchased): <http://macpaw.com/download/cleanmymac>
 - Cryptomator: <https://cryptomator.org/downloads/#osxDownload>
 - Flux: <https://justgetflux.com/>

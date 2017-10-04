@@ -1,4 +1,4 @@
-# Recommended Software (for OS X)
+# Recommended Software (for macOS)
 
 ## AirPlay
 

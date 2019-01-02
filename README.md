@@ -37,7 +37,7 @@
 
 ## Photo Editing
 
-- Google's Nik Collection: <https://www.google.com/nikcollection/>
+- Pixelmator
 
 ## Reference
 

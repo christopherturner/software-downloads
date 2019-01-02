@@ -71,6 +71,6 @@
 - Flux: <https://justgetflux.com/>
 - Hider 2 (Purchased): <http://macpaw.com/download/hider>
 
-## Version Management
+## Version Control
 
 - Github: <https://desktop.github.com/>

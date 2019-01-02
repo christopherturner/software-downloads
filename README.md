@@ -8,7 +8,6 @@
 
 - Google Chrome: <https://www.google.com/chrome/browser/desktop/>
 - Mozilla Firefox: <https://www.mozilla.org/en-US/firefox/new/>
-- Opera (Developer): <http://www.opera.com/developer>
 - Vivaldi: <https://vivaldi.com/download/?lang=en_US>
 
 ## Computer Algebra System

@@ -31,9 +31,7 @@
 
 - Curse: <https://www.curse.com/download>
 - Discord: <https://discordapp.com/download>
-- Franz: <http://meetfranz.com/#download>
 - Skype: <https://www.skype.com/en/download-skype/skype-for-computer/>
-- Telegram: <https://telegram.org/>
 
 ## Photo Editing
 
@@ -42,10 +40,6 @@
 ## Reference
 
 - Dash (Purchased): <https://itunes.apple.com/us/app/dash/id449589707?ls=1&mt=12>
-
-## Screen Sharing
-
-- Screenhero: <https://screenhero.com/account/>
 
 ## System Security
 
@@ -73,4 +67,4 @@
 
 ## Version Control
 
-- Github: <https://desktop.github.com/>
+- GitHub Desktop: <https://desktop.github.com/>
